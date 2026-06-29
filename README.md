@@ -220,6 +220,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Inline Help](https://inlinehelp.com) - Answer customer questions before they ask
 - [Aidbase](https://www.aidbase.ai) - AI-Powered Support for your SaaS startup.
 - [Twig](https://www.twig.so/) - Twig is an AI assistant that resolves customer issues instantly, supporting both users and support agents 24/7.
+- [ReviewReply](https://reviewreply.pages.dev) - Generates professional, empathetic replies to Google, TripAdvisor and Airbnb reviews in 10 seconds. Free, no signup.
 
 
 ### Other text generators
@@ -464,6 +465,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[PersonaForce](https://personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 - **[Publish7](https://publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
 - **[Keyla.AI](https://keyla.ai/)** - Create video ads in minutes
+- **[ContentBase](https://contentbase-crw.pages.dev)** - Rewrites Etsy, Shopify and Amazon product listings for search and conversion in 10 seconds.
+- **[RepurposeAI](https://repurposeai-v2.pages.dev)** - Turns one blog post or video into platform-native posts for Twitter, LinkedIn, Instagram and newsletters.
 
 
 ### Phone Calls
