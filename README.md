@@ -89,6 +89,12 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Writing assistants
 
+- [ContentBase](https://contentbase-crw.pages.dev) - AI listing optimizer for Etsy, Shopify, and Amazon sellers — rewrites title, description, and tags in 10 seconds, free.
+- [RepurposeAI](https://repurposeai-v2.pages.dev) - Turn one blog post or video into LinkedIn, Twitter, Instagram, and TikTok formats automatically.
+- [ProposalAI](https://proposalai-app.pages.dev) - AI freelance proposal writer — paste a client brief, get a polished proposal in seconds.
+- [InvoiceChaser](https://invoicechaser-app.pages.dev) - AI invoice reminder email writer that selects the right tone based on days overdue.
+- [JobPostAI](https://jobpostai-app.pages.dev) - AI job posting writer for small businesses — generate sharp, specific job posts that attract the right candidates.
+
 *For a more complete list of AI writing assistants visit: [Awesome AI Writing](https://github.com/xaramore/awesome-ai-writing)*
 
 - [Jasper](https://www.jasper.ai/) - Create content faster with artificial intelligence.
@@ -213,6 +219,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Mathos AI](https://www.mathgptpro.com/) - Best AI math solver, calculator & tutor.
 
 ### Customer Support
+- [ReviewReply](https://reviewreply.pages.dev) - Free AI tool that generates professional responses to Google, TripAdvisor, and Airbnb reviews in 10 seconds. No signup required.
 - [SiteGPT](https://sitegpt.ai/?ref=mahseema-awesome-ai-tools) - Make AI your expert customer support agent.
 - [GPTHelp.ai](https://gpthelp.ai/?ref=mahseema-awesome-ai-tools) - ChatGPT for your website / AI customer support chatbot.
 - [SiteSpeakAI](https://sitespeak.ai) - Automate your customer support with AI.
@@ -220,7 +227,6 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Inline Help](https://inlinehelp.com) - Answer customer questions before they ask
 - [Aidbase](https://www.aidbase.ai) - AI-Powered Support for your SaaS startup.
 - [Twig](https://www.twig.so/) - Twig is an AI assistant that resolves customer issues instantly, supporting both users and support agents 24/7.
-- [ReviewReply](https://reviewreply.pages.dev) - Generates professional, empathetic replies to Google, TripAdvisor and Airbnb reviews in 10 seconds. Free, no signup.
 
 
 ### Other text generators
@@ -465,8 +471,6 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[PersonaForce](https://personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 - **[Publish7](https://publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
 - **[Keyla.AI](https://keyla.ai/)** - Create video ads in minutes
-- **[ContentBase](https://contentbase-crw.pages.dev)** - Rewrites Etsy, Shopify and Amazon product listings for search and conversion in 10 seconds.
-- **[RepurposeAI](https://repurposeai-v2.pages.dev)** - Turns one blog post or video into platform-native posts for Twitter, LinkedIn, Instagram and newsletters.
 
 
 ### Phone Calls
